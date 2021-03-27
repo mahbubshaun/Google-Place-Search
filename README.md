@@ -9,7 +9,12 @@ The desktop software should integrate Google Place Search API & show results int
 
 * The window of the application should be resizable
 
+### Runnable Version links :
 
-### Final result :
+* For windows : 
 
-[![Click to watch](doc/Screenshot_18.png)](https://www.youtube.com/watch?v=CBoL_2pau-4 "Click here to watch")
+* For Mac: 
+
+### Video Manual :
+
+[![Click to watch](doc/Screenshot_18.png)](https://www.youtube.com/watch?v=KJm3TexQ5d0 "Click here to watch")
