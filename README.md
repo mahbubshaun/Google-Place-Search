@@ -11,10 +11,10 @@ The desktop software should integrate Google Place Search API & show results int
 
 ### Runnable Version links :
 
-* For windows : 
+* For windows : https://we.tl/t-OffvM6HcUd
 
-* For Mac: 
+* For Mac: https://we.tl/t-KwyciHczTo
 
 ### Video Manual :
 
-[![Click to watch](doc/Screenshot_18.png)](https://www.youtube.com/watch?v=KJm3TexQ5d0 "Click here to watch")
+[![Click to watch](doc/Screenshot_42.png)](https://www.youtube.com/watch?v=KJm3TexQ5d0 "Click here to watch")
