@@ -17,4 +17,4 @@ The desktop software should integrate Google Place Search API & show results int
 
 ### Video Manual :
 
-[![Click to watch](doc/Screenshot_42.png)](https://www.youtube.com/watch?v=KJm3TexQ5d0 "Click here to watch")
+[![Click to watch](doc/Screenshot_43.png)](https://www.youtube.com/watch?v=KJm3TexQ5d0 "Click here to watch")
